@@ -1,6 +1,6 @@
-# Code and Dataset of Paper 1765
+# Exploring Spatial-Temporal Features for Deepfake Detection and Localization
 
-An implementation code for NeurIPS-2022 paper ID "1765".
+An implementation code for Deepfake Detection \& Localization and a new dataset for evaluation.
 
 ## Table of Contents
 
