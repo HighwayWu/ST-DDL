@@ -45,7 +45,7 @@ Note: The pre-trained weight can be downloaded from [here](https://drive.google.
 
 ## Dataset
 
-We construct a new Deepfake dataset, namely **ManualFake**, that innovatively features commercial Deepfake software, online social network scenarios, and multi-source videos (e.g., online interviews). The full dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1ihKQU8ajANERjpm896jZBG__a02q2wr3/view?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/12tA0KjlG_O4GlI-pwVj2Gw?pwd=x2h9). If you would like to use our ManualFake dataset, please fill out this [Google Form](https://forms.gle/kbPhLw7ihfdnwerg8) and, once accepted, we will send you the unzip code of our dataset.
+We construct a new Deepfake dataset, namely **ManualFake**, that innovatively features commercial Deepfake software, online social network scenarios, and multi-source videos (e.g., online interviews). The full dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Aeb3FykMGUPFTR6zkrk_jqrit4mIIopR?usp=share_link) or [Baidu Pan](https://pan.baidu.com/s/12tA0KjlG_O4GlI-pwVj2Gw?pwd=x2h9). If you would like to use our ManualFake dataset, please fill out this [Google Form](https://forms.gle/kbPhLw7ihfdnwerg8) and, once accepted, we will send you the unzip code of our dataset.
 
 <p align='center'>  
   <img src='https://github.com/paper1765/paper1765/blob/master/imgs/dataset.jpg?raw=true' width='480'/>
